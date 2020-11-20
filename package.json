@@ -1,0 +1,29 @@
+{
+  "name": "simple-mongo-client",
+  "version": "0.0.1",
+  "description": "Simple MongoDB client that closes the connection after each operation.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rimelynx/simple-mongo-client.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "mongo",
+    "simple",
+    "client",
+    "db"
+  ],
+  "author": "Piotr Rafalski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rimelynx/simple-mongo-client/issues"
+  },
+  "homepage": "https://github.com/rimelynx/simple-mongo-client#readme",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}
